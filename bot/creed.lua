@@ -221,6 +221,8 @@ function create_config( )
     "arabic_lock",
     "welcome",
     "google",
+    "info",
+    "plugins",
     "sms",
     "Debian_service",
     "sudoers",
